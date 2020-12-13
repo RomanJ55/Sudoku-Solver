@@ -1,9 +1,9 @@
 # Sudoku-Solver
 Sudoku Solver written in python using the Tkinter module for GUI
 
--Supports AI solving
--AI visualization inclded(blue numbers)
--AI visualization can be disabled for more difficult sudokus(can take a long time with all the animations)
+- Supports AI solving
+- AI visualization inclded(blue numbers)
+- AI visualization can be disabled for more difficult sudokus(can take a long time with all the animations)
 
 
 
