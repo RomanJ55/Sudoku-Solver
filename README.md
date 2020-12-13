@@ -2,4 +2,4 @@
 Sudoku Solver written in python
 
 
-![Start_screen](../001.jpg "Start_screen")
+![Start_screen](assets/001.jpg "Start_screen")
