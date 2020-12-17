@@ -1,7 +1,7 @@
 # Sudoku-Solver
 Sudoku Solver written in python using the Tkinter module for GUI
 
-- Supports AI solving
+- Supports AI solving with backtracking
 - AI visualization in real-time (blue numbers)
   - can be disabled for more difficult sudokus
   (can take a long time with all the animations)
